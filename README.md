@@ -1,7 +1,7 @@
-# Personal-Trainer--Fitness-Application
+# Personal-Trainer--Fitness-Application iOS
 A Machine Learning Fitness Application (couldn't import Machine Learning Model VGG16 due to file size)
 
-Requiements:
+Requirements:
 Xcode 9
 Swift 4
 iOS 11
